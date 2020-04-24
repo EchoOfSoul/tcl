@@ -3,7 +3,7 @@ README:  Tcl
 	http://sourceforge.net/projects/tcl/files/Tcl/
     You can get any source release of Tcl from the URL above.
 
-https://travis-ci.org/EchoOfSoul/tcl.svg?branch=acts
+[![Build Status](https://travis-ci.org/EchoOfSoul/tcl.svg?branch=acts)](https://travis-ci.org/EchoOfSoul/tcl)
 
 Contents
 --------
